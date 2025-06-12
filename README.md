@@ -13,3 +13,19 @@ Streamlit – framework for building interactive web apps with Python.
 Pandas – data manipulation.
 Plotly – interactive data visualizations.
 Pillow – image processing.
+
+ESPAÑOL:
+Este es un dashboard interactivo creado con Python + Streamlit que visualiza datos históricos de ventas globales de videojuegos. Permite explorar ventas por título, género, plataforma y región, con visualizaciones dinámicas y herramientas de descarga de datos.
+Funcionalidades principales:
+Gráfico de barras con los 100 videojuegos más vendidos globalmente.
+Gráfico circular con distribución de ventas por región (NA, EU, JP, Other).
+Filtro interactivo por género de videojuego.
+Análisis cruzado de plataformas vs géneros con ventas acumuladas.
+Botones para descargar los datasets en CSV.
+Imagen decorativa y diseño responsive adaptado al navegador.
+
+Tecnologías utilizadas
+Streamlit – framework para construir aplicaciones web interactivas con Python.
+Pandas – manipulación de datos.
+Plotly – gráficos interactivos.
+Pillow – manejo de imágenes.
