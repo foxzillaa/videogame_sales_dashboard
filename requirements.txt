@@ -2,3 +2,5 @@ streamlit>=1.25.0
 pandas
 plotly
 pillow
+numpy
+datetime
